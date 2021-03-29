@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(fogo-fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box22{
+    background-image: url(gerald.png);
+    background-repeat: no-repeat;
+    margin-left: 35rem;
+    height: 100vh;
+    width: 85vh;
+   
+ }
+
+ .espaco{
+     font-size: 35px;
+     width: 1900px;
+     color: rosybrown;
+     margin-bottom: 5rem
+ }
+
+ .espaço:hover{
+     
+     color: aliceblue;
+ }
+
+ .pj { 
+     padding: 50px;
+     height: 1000x;
+     margin-right: 15px;
+
+ }
+
+.un {
+     padding: 35px;
+     margin-left: 25rem;
+}
+
+.at{
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.tm{
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.cm{
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.logo{
+    margin-top: 28rem;
+    margin-left: 10rem;
+}
+
+.botao{
+    margin-left: 12rem;
+}
